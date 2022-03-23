@@ -1,5 +1,5 @@
 title: Cutscene Skipper
-description: Cutscenes? What's that? (PS: A series of cutscenes will cause the loading time to be longer. Also, cutscenes that normally ends in a fade-to-white causes white flashes. Coincidentally (or not?) both are prominent especially in STT.)
+description: Cutscenes? What's that? (PS; A series of cutscenes will cause the loading time to be longer. Also, cutscenes that normally ends in a fade-to-white causes white flashes. Coincidentally (or not?) both are prominent especially in STT.)
 assets:
 - name: ard/al00.ard
   multi:
@@ -3745,11 +3745,6 @@ assets:
     source:
     - name: 0000.bin
   - name: 103
-    type: event
-    method: copy
-    source:
-    - name: 0000.bin
-  - name: 900
     type: event
     method: copy
     source:
